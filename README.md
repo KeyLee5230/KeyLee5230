@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @KeyLee5230
-- 👀 I’m interested in lsp
-- 🌱 I’m currently learning 刷机
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm KeyLee5230 👋
 
-<!---
-KeyLee5230/KeyLee5230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 🧑‍💻 热衷于刷机，折腾。
+- 🌐 对刷机和折腾各种东西很感兴趣。
+- 🎓 正在努力学习怎么使用GitHub。
+- 📫 How to reach me: [52328*835@qq.com](mailto:your.email@example.com)
+
+## GitHub Stats
+
+![KeyLee5230's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyLee5230&show_icons=true&theme=radical)
+Thanks for stopping by! 😊
